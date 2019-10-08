@@ -1,13 +1,13 @@
 #!/usr/bin/perl
-# 
-# Author:  Peter Keel <seegras@discordia.ch>
-# Date:    06.07.2013
-# Revised: 
-# Version: 1.0
-# License: Public Domain
-# URL:     http://seegras.discordia.ch/Programs/
 #
 # lowercases file names
+# 
+# Author:   Peter Keel <seegras@discordia.ch>
+# Date:     2013-07-06
+# Revision: 
+# Version:  1.0
+# License:  Public Domain
+# URL:      http://seegras.discordia.ch/Programs/
 # 
 
 use Getopt::Long;

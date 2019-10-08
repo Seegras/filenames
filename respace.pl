@@ -2,12 +2,12 @@
 # 
 # Re-Spaces BiCapitalized filenames. 
 # 
-# Author:  Peter Keel <seegras@discordia.ch>
-# Date:    ?
-# Revised: 06.07.2013
-# Version: 0.3
-# License: Public Domain
-# URL:     http://seegras.discordia.ch/Programs/
+# Author:   Peter Keel <seegras@discordia.ch>
+# Date:     ?
+# Revision: 2013-07-06
+# Version:  0.3
+# License:  Public Domain
+# URL:      http://seegras.discordia.ch/Programs/
 
 # 
 # Does not exactly use spaces, but rather underscores.

@@ -2,11 +2,11 @@
 #
 # Re-Spaces BiCapitalized strings.
 #
-# Author:  Peter Keel <seegras@discordia.ch>
-# Date:    08.07.2013
-# Version: 0.1
-# License: Public Domain
-# URL:     http://seegras.discordia.ch/Programs/
+# Author:   Peter Keel <seegras@discordia.ch>
+# Date:     2013-07-08
+# Version:  0.1
+# License:  Public Domain
+# URL:      http://seegras.discordia.ch/Programs/
 
 use Getopt::Long;
 use Pod::Usage;

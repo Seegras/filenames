@@ -1,11 +1,11 @@
 #!/usr/bin/perl
 # 
-# Author:  Peter Keel <seegras@discordia.ch>
-# Date:    20.11.2003
-# Revised: 20.04.2015
-# Version: 1.1
-# License: Public Domain
-# URL:     http://seegras.discordia.ch/Programs/
+# Author:   Peter Keel <seegras@discordia.ch>
+# Date:     2003-11-20
+# Revision: 2015-04-20
+# Version:  1.1
+# License:  Public Domain
+# URL:      http://seegras.discordia.ch/Programs/
 #
 # BiCapitalizes filenames. And strips spaces.
 # 
