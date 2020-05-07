@@ -3,9 +3,9 @@
 # sorts gopro-files to the correct order
 #
 # Author:   Peter Keel <seegras@discordia.ch>
-# Date:     ?
-# Revision: 2019-10-08
-# Version:  0.1
+# Date:     2019-10-08?
+# Revision: 2020-05-06
+# Version:  0.2
 # License:  Public Domain
 # 
 rm ./*.THM 2> /dev/null

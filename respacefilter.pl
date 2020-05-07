@@ -4,20 +4,25 @@
 #
 # Author:   Peter Keel <seegras@discordia.ch>
 # Date:     2013-07-08
+# Revison:  2020-05-06
 # Version:  0.1
 # License:  Public Domain
 # URL:      http://seegras.discordia.ch/Programs/
-
+#
+use strict;
 use Getopt::Long;
 use Pod::Usage;
 
+my $needshelp;
+my $string;
+
 &Getopt::Long::Configure( 'pass_through', 'no_autoabbrev');
 &Getopt::Long::GetOptions(
-                'help|h'                => \$needshelp,
+    'help|h'	=> \$needshelp,
 );
 
 if ($needshelp) {
-pod2usage(1);
+    pod2usage(1);
 }
 
 if (!$ARGV[0]) {
