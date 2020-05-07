@@ -42,7 +42,7 @@ opendir(my $in_dir, $dname) || die "I am unable to access that directory...Sorry
 closedir($in_dir);
 
 @dir_contents = sort(@dir_contents);
-    foreach $filename (@dir_contents) {
+    foreach my $filename (@dir_contents) {
         if ($filename ne ".." and $filename ne ".") {
             $oldname = $filename;
             $filename =~ s/([A-Z-])/_$1/g;
